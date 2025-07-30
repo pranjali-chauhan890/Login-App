@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "237845985257",
+    "project_id": "pranjali-login-app",
+    "storage_bucket": "pranjali-login-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237845985257:android:7b603aad1271aeb46ebd78",
+        "android_client_info": {
+          "package_name": "com.v2v.pranjaliloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237845985257-taqm93pfh8be0rid1js6pm8corde7krh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.v2v.pranjaliloginapp",
+            "certificate_hash": "92ba5985c4fe4e1c739ef8d61a63a732ca103eaa"
+          }
+        },
+        {
+          "client_id": "237845985257-1igqg2sr87tomh952uau1rj1scb0n9kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-8hdnv3pK0pZlsXDr9vV3H6f6J-W8yGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237845985257-1igqg2sr87tomh952uau1rj1scb0n9kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
